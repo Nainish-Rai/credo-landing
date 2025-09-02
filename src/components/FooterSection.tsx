@@ -52,7 +52,7 @@ const sections = [
 const FooterSection = () => {
   return (
     <section className="py-32 w-full">
-      <div className="container max-w-7xl px-4 sm:px-6 lg:px-8 mx-auto">
+      <div className="container  max-w-7xl px-4 sm:px-6 lg:px-8 mx-auto">
         <footer>
           <div className="grid grid-cols-2 gap-8 lg:grid-cols-4">
             {sections.map((section, sectionIdx) => (

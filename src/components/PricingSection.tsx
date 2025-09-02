@@ -82,7 +82,7 @@ const PricingSection = () => {
 
   return (
     <section className="bg-gradient-to-t whites to-70% to-background via-white w-full py-32 pt-0">
-      <div className="container flex flex-col gap-13">
+      <div className="container mx-auto flex flex-col gap-13">
         <h1 className="text-center text-6xl font-bold tracking-tighter text-foreground">
           Simple Pricing Plans
         </h1>

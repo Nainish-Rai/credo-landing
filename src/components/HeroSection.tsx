@@ -10,7 +10,7 @@ import { Button } from "@/components/ui/button";
 const HeroSection = () => {
   return (
     <section className="bg-background relative py-32 w-screen  pt-8  ">
-      <div className="container relative z-20 flex items-center justify-center">
+      <div className="container mx-auto relative z-20 flex items-center justify-center">
         <div className="bg-background flex w-fit flex-col items-center justify-center gap-4 pb-3 text-center">
           <Button
             variant="secondary"
